@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8F6ZX4XWGyKopiDadt7mYG2AQni1R+oWRFzsaXOoWEo=",
+  "Source": "DummyApp_Middleware",
+  "BasePath": "_content/DummyApp_Middleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
